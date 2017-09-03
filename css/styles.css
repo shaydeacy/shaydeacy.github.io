@@ -1,0 +1,57 @@
+.logo {
+      width: 70px;
+    border-radius: 50%;
+}
+
+#headermasthead {
+  background-image: url("../img/home-office-336378_640.jpg");
+  }
+
+#headermasthead .container {
+  background-color:rgba(0, 0, 0, 0.5);
+  }
+  
+section#contact .form-group textarea.form-control {
+    height: 136px;
+}
+
+section#contact {
+
+}
+
+section#contact ::-webkit-input-placeholder {
+    font-weight: 700;
+    color: #000;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase; }
+  section#contact :-moz-placeholder {
+    font-weight: 700;
+    color: #000;
+    /* Firefox 18- */
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase; }
+  section#contact ::-moz-placeholder {
+    font-weight: 700;
+    color: #000;
+    /* Firefox 19+ */
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase; }
+  section#contact :-ms-input-placeholder {
+    font-weight: 700;
+    color: #000;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase; }
+
+section#contact {
+    background-color: #222222;
+    background-image: url("../img/wood.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+section#contact .section-subheading {
+    color: white;
+    font-size: 18px;
+}
+
+
